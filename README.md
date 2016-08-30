@@ -1,4 +1,4 @@
-Vagrant-Setup [ EspecializaTI]
+Vagrant-Setup
 ===========
 
 Servidor LAMP (Linux, Apache, MySQL, PHP)
